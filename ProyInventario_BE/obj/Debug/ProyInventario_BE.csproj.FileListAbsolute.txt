@@ -1,0 +1,12 @@
+C:\Users\Compu\OneDrive\Escritorio\InventarioPlazaVeaWEB\ProyInventario_BE\bin\Debug\ProyInventario_BE.dll
+C:\Users\Compu\OneDrive\Escritorio\InventarioPlazaVeaWEB\ProyInventario_BE\bin\Debug\ProyInventario_BE.pdb
+C:\Users\Compu\OneDrive\Escritorio\InventarioPlazaVeaWEB\ProyInventario_BE\obj\Debug\ProyInventario_BE.csproj.AssemblyReference.cache
+C:\Users\Compu\OneDrive\Escritorio\InventarioPlazaVeaWEB\ProyInventario_BE\obj\Debug\ProyInventario_BE.csproj.CoreCompileInputs.cache
+C:\Users\Compu\OneDrive\Escritorio\InventarioPlazaVeaWEB\ProyInventario_BE\obj\Debug\ProyInventario_BE.dll
+C:\Users\Compu\OneDrive\Escritorio\InventarioPlazaVeaWEB\ProyInventario_BE\obj\Debug\ProyInventario_BE.pdb
+D:\DES-APPS-I\InventarioPlazaVeaWEB\ProyInventario_BE\bin\Debug\ProyInventario_BE.dll
+D:\DES-APPS-I\InventarioPlazaVeaWEB\ProyInventario_BE\bin\Debug\ProyInventario_BE.pdb
+D:\DES-APPS-I\InventarioPlazaVeaWEB\ProyInventario_BE\obj\Debug\ProyInventario_BE.csproj.AssemblyReference.cache
+D:\DES-APPS-I\InventarioPlazaVeaWEB\ProyInventario_BE\obj\Debug\ProyInventario_BE.csproj.CoreCompileInputs.cache
+D:\DES-APPS-I\InventarioPlazaVeaWEB\ProyInventario_BE\obj\Debug\ProyInventario_BE.dll
+D:\DES-APPS-I\InventarioPlazaVeaWEB\ProyInventario_BE\obj\Debug\ProyInventario_BE.pdb
