@@ -1,0 +1,44 @@
+C:\Users\Compu\OneDrive\Escritorio\InventarioPlazaVeaWEB\ProyInventario_BL\bin\Debug\ProyInventario_BL.dll
+C:\Users\Compu\OneDrive\Escritorio\InventarioPlazaVeaWEB\ProyInventario_BL\bin\Debug\ProyInventario_BL.pdb
+C:\Users\Compu\OneDrive\Escritorio\InventarioPlazaVeaWEB\ProyInventario_BL\bin\Debug\ProyInventario_ADO.dll
+C:\Users\Compu\OneDrive\Escritorio\InventarioPlazaVeaWEB\ProyInventario_BL\bin\Debug\ProyInventario_BE.dll
+C:\Users\Compu\OneDrive\Escritorio\InventarioPlazaVeaWEB\ProyInventario_BL\bin\Debug\ProyInventario_ADO.pdb
+C:\Users\Compu\OneDrive\Escritorio\InventarioPlazaVeaWEB\ProyInventario_BL\bin\Debug\ProyInventario_BE.pdb
+C:\Users\Compu\OneDrive\Escritorio\InventarioPlazaVeaWEB\ProyInventario_BL\obj\Debug\ProyInventario_BL.csproj.AssemblyReference.cache
+C:\Users\Compu\OneDrive\Escritorio\InventarioPlazaVeaWEB\ProyInventario_BL\obj\Debug\ProyInventario_BL.csproj.CoreCompileInputs.cache
+C:\Users\Compu\OneDrive\Escritorio\InventarioPlazaVeaWEB\ProyInventario_BL\obj\Debug\ProyInventario_BL.csproj.CopyComplete
+C:\Users\Compu\OneDrive\Escritorio\InventarioPlazaVeaWEB\ProyInventario_BL\obj\Debug\ProyInventario_BL.dll
+C:\Users\Compu\OneDrive\Escritorio\InventarioPlazaVeaWEB\ProyInventario_BL\obj\Debug\ProyInventario_BL.pdb
+C:\Users\kim\Desktop\InventarioPlazaVeaWEB\ProyInventario_BL\bin\Debug\ProyInventario_BL.dll
+C:\Users\kim\Desktop\InventarioPlazaVeaWEB\ProyInventario_BL\bin\Debug\ProyInventario_BL.pdb
+C:\Users\kim\Desktop\InventarioPlazaVeaWEB\ProyInventario_BL\bin\Debug\ProyInventario_ADO.dll
+C:\Users\kim\Desktop\InventarioPlazaVeaWEB\ProyInventario_BL\bin\Debug\ProyInventario_BE.dll
+C:\Users\kim\Desktop\InventarioPlazaVeaWEB\ProyInventario_BL\bin\Debug\ProyInventario_ADO.pdb
+C:\Users\kim\Desktop\InventarioPlazaVeaWEB\ProyInventario_BL\bin\Debug\ProyInventario_BE.pdb
+C:\Users\kim\Desktop\InventarioPlazaVeaWEB\ProyInventario_BL\obj\Debug\ProyInventario_BL.csproj.AssemblyReference.cache
+C:\Users\kim\Desktop\InventarioPlazaVeaWEB\ProyInventario_BL\obj\Debug\ProyInventario_BL.csproj.CoreCompileInputs.cache
+C:\Users\kim\Desktop\InventarioPlazaVeaWEB\ProyInventario_BL\obj\Debug\ProyInventario_BL.csproj.CopyComplete
+C:\Users\kim\Desktop\InventarioPlazaVeaWEB\ProyInventario_BL\obj\Debug\ProyInventario_BL.dll
+C:\Users\kim\Desktop\InventarioPlazaVeaWEB\ProyInventario_BL\obj\Debug\ProyInventario_BL.pdb
+D:\Software-development\4 ciclo\desarrollo de apps I\InventarioPlazaVeaWEB\ProyInventario_BL\bin\Debug\ProyInventario_BL.dll
+D:\Software-development\4 ciclo\desarrollo de apps I\InventarioPlazaVeaWEB\ProyInventario_BL\bin\Debug\ProyInventario_BL.pdb
+D:\Software-development\4 ciclo\desarrollo de apps I\InventarioPlazaVeaWEB\ProyInventario_BL\bin\Debug\ProyInventario_ADO.dll
+D:\Software-development\4 ciclo\desarrollo de apps I\InventarioPlazaVeaWEB\ProyInventario_BL\bin\Debug\ProyInventario_BE.dll
+D:\Software-development\4 ciclo\desarrollo de apps I\InventarioPlazaVeaWEB\ProyInventario_BL\bin\Debug\ProyInventario_ADO.pdb
+D:\Software-development\4 ciclo\desarrollo de apps I\InventarioPlazaVeaWEB\ProyInventario_BL\bin\Debug\ProyInventario_BE.pdb
+D:\Software-development\4 ciclo\desarrollo de apps I\InventarioPlazaVeaWEB\ProyInventario_BL\obj\Debug\ProyInventario_BL.csproj.AssemblyReference.cache
+D:\Software-development\4 ciclo\desarrollo de apps I\InventarioPlazaVeaWEB\ProyInventario_BL\obj\Debug\ProyInventario_BL.csproj.CoreCompileInputs.cache
+D:\Software-development\4 ciclo\desarrollo de apps I\InventarioPlazaVeaWEB\ProyInventario_BL\obj\Debug\ProyInventario_BL.csproj.CopyComplete
+D:\Software-development\4 ciclo\desarrollo de apps I\InventarioPlazaVeaWEB\ProyInventario_BL\obj\Debug\ProyInventario_BL.dll
+D:\Software-development\4 ciclo\desarrollo de apps I\InventarioPlazaVeaWEB\ProyInventario_BL\obj\Debug\ProyInventario_BL.pdb
+D:\DES-APPS-I\InventarioPlazaVeaWEB\ProyInventario_BL\bin\Debug\ProyInventario_BL.dll
+D:\DES-APPS-I\InventarioPlazaVeaWEB\ProyInventario_BL\bin\Debug\ProyInventario_BL.pdb
+D:\DES-APPS-I\InventarioPlazaVeaWEB\ProyInventario_BL\bin\Debug\ProyInventario_ADO.dll
+D:\DES-APPS-I\InventarioPlazaVeaWEB\ProyInventario_BL\bin\Debug\ProyInventario_BE.dll
+D:\DES-APPS-I\InventarioPlazaVeaWEB\ProyInventario_BL\bin\Debug\ProyInventario_ADO.pdb
+D:\DES-APPS-I\InventarioPlazaVeaWEB\ProyInventario_BL\bin\Debug\ProyInventario_BE.pdb
+D:\DES-APPS-I\InventarioPlazaVeaWEB\ProyInventario_BL\obj\Debug\ProyInventario_BL.csproj.AssemblyReference.cache
+D:\DES-APPS-I\InventarioPlazaVeaWEB\ProyInventario_BL\obj\Debug\ProyInventario_BL.csproj.CoreCompileInputs.cache
+D:\DES-APPS-I\InventarioPlazaVeaWEB\ProyInventario_BL\obj\Debug\ProyInventario_BL.csproj.CopyComplete
+D:\DES-APPS-I\InventarioPlazaVeaWEB\ProyInventario_BL\obj\Debug\ProyInventario_BL.dll
+D:\DES-APPS-I\InventarioPlazaVeaWEB\ProyInventario_BL\obj\Debug\ProyInventario_BL.pdb
