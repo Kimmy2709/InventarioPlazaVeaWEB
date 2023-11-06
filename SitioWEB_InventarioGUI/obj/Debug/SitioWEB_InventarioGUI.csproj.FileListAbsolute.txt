@@ -1,0 +1,240 @@
+C:\Users\Compu\OneDrive\Escritorio\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\SitioWEB_InventarioGUI.dll.config
+C:\Users\Compu\OneDrive\Escritorio\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\SitioWEB_InventarioGUI.dll
+C:\Users\Compu\OneDrive\Escritorio\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\SitioWEB_InventarioGUI.pdb
+C:\Users\Compu\OneDrive\Escritorio\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\roslyn\csc.exe
+C:\Users\Compu\OneDrive\Escritorio\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\roslyn\csc.exe.config
+C:\Users\Compu\OneDrive\Escritorio\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\roslyn\csc.rsp
+C:\Users\Compu\OneDrive\Escritorio\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\roslyn\csi.exe
+C:\Users\Compu\OneDrive\Escritorio\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\roslyn\csi.exe.config
+C:\Users\Compu\OneDrive\Escritorio\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\roslyn\csi.rsp
+C:\Users\Compu\OneDrive\Escritorio\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Compu\OneDrive\Escritorio\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Compu\OneDrive\Escritorio\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Compu\OneDrive\Escritorio\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Compu\OneDrive\Escritorio\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Compu\OneDrive\Escritorio\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Compu\OneDrive\Escritorio\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Compu\OneDrive\Escritorio\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Compu\OneDrive\Escritorio\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Compu\OneDrive\Escritorio\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+C:\Users\Compu\OneDrive\Escritorio\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Compu\OneDrive\Escritorio\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Compu\OneDrive\Escritorio\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\roslyn\System.Buffers.dll
+C:\Users\Compu\OneDrive\Escritorio\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Compu\OneDrive\Escritorio\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\roslyn\System.Memory.dll
+C:\Users\Compu\OneDrive\Escritorio\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\Compu\OneDrive\Escritorio\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Compu\OneDrive\Escritorio\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Compu\OneDrive\Escritorio\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Compu\OneDrive\Escritorio\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Compu\OneDrive\Escritorio\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\roslyn\vbc.exe
+C:\Users\Compu\OneDrive\Escritorio\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\roslyn\vbc.exe.config
+C:\Users\Compu\OneDrive\Escritorio\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\roslyn\vbc.rsp
+C:\Users\Compu\OneDrive\Escritorio\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\roslyn\VBCSCompiler.exe
+C:\Users\Compu\OneDrive\Escritorio\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Compu\OneDrive\Escritorio\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\AjaxControlToolkit.dll
+C:\Users\Compu\OneDrive\Escritorio\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Compu\OneDrive\Escritorio\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\ProyInventario_BE.dll
+C:\Users\Compu\OneDrive\Escritorio\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\ProyInventario_BL.dll
+C:\Users\Compu\OneDrive\Escritorio\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\ProyInventario_ADO.dll
+C:\Users\Compu\OneDrive\Escritorio\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\ProyInventario_BE.pdb
+C:\Users\Compu\OneDrive\Escritorio\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\ProyInventario_BL.pdb
+C:\Users\Compu\OneDrive\Escritorio\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Compu\OneDrive\Escritorio\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\ProyInventario_ADO.pdb
+C:\Users\Compu\OneDrive\Escritorio\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\obj\Debug\SitioWEB_InventarioGUI.csproj.AssemblyReference.cache
+C:\Users\Compu\OneDrive\Escritorio\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\obj\Debug\SitioWEB_InventarioGUI.csproj.CoreCompileInputs.cache
+C:\Users\Compu\OneDrive\Escritorio\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\obj\Debug\SitioWEB_InventarioGUI.csproj.CopyComplete
+C:\Users\Compu\OneDrive\Escritorio\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\obj\Debug\SitioWEB_InventarioGUI.dll
+C:\Users\Compu\OneDrive\Escritorio\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\obj\Debug\SitioWEB_InventarioGUI.pdb
+C:\Users\kim\Desktop\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\SitioWEB_InventarioGUI.dll.config
+C:\Users\kim\Desktop\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\SitioWEB_InventarioGUI.dll
+C:\Users\kim\Desktop\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\SitioWEB_InventarioGUI.pdb
+C:\Users\kim\Desktop\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\roslyn\csc.exe
+C:\Users\kim\Desktop\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\roslyn\csc.exe.config
+C:\Users\kim\Desktop\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\roslyn\csc.rsp
+C:\Users\kim\Desktop\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\roslyn\csi.exe
+C:\Users\kim\Desktop\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\roslyn\csi.exe.config
+C:\Users\kim\Desktop\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\roslyn\csi.rsp
+C:\Users\kim\Desktop\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\kim\Desktop\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\kim\Desktop\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\kim\Desktop\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\kim\Desktop\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\kim\Desktop\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\kim\Desktop\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\kim\Desktop\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\kim\Desktop\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\kim\Desktop\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+C:\Users\kim\Desktop\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\kim\Desktop\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\kim\Desktop\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\roslyn\System.Buffers.dll
+C:\Users\kim\Desktop\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\kim\Desktop\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\roslyn\System.Memory.dll
+C:\Users\kim\Desktop\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\kim\Desktop\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\kim\Desktop\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\kim\Desktop\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\kim\Desktop\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\kim\Desktop\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\roslyn\vbc.exe
+C:\Users\kim\Desktop\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\roslyn\vbc.exe.config
+C:\Users\kim\Desktop\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\roslyn\vbc.rsp
+C:\Users\kim\Desktop\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\roslyn\VBCSCompiler.exe
+C:\Users\kim\Desktop\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\kim\Desktop\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\AjaxControlToolkit.dll
+C:\Users\kim\Desktop\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\kim\Desktop\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\ProyInventario_BE.dll
+C:\Users\kim\Desktop\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\ProyInventario_BL.dll
+C:\Users\kim\Desktop\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\ProyInventario_ADO.dll
+C:\Users\kim\Desktop\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\ProyInventario_BE.pdb
+C:\Users\kim\Desktop\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\ProyInventario_BL.pdb
+C:\Users\kim\Desktop\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\kim\Desktop\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\ProyInventario_ADO.pdb
+C:\Users\kim\Desktop\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\obj\Debug\SitioWEB_InventarioGUI.csproj.AssemblyReference.cache
+C:\Users\kim\Desktop\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\obj\Debug\SitioWEB_InventarioGUI.csproj.CoreCompileInputs.cache
+C:\Users\kim\Desktop\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\obj\Debug\SitioWEB_InventarioGUI.csproj.CopyComplete
+C:\Users\kim\Desktop\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\obj\Debug\SitioWEB_InventarioGUI.dll
+C:\Users\kim\Desktop\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\obj\Debug\SitioWEB_InventarioGUI.pdb
+D:\Software-development\4 ciclo\desarrollo de apps I\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\SitioWEB_InventarioGUI.dll.config
+D:\Software-development\4 ciclo\desarrollo de apps I\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\SitioWEB_InventarioGUI.dll
+D:\Software-development\4 ciclo\desarrollo de apps I\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\SitioWEB_InventarioGUI.pdb
+D:\Software-development\4 ciclo\desarrollo de apps I\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\roslyn\csc.exe
+D:\Software-development\4 ciclo\desarrollo de apps I\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\roslyn\csc.exe.config
+D:\Software-development\4 ciclo\desarrollo de apps I\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\roslyn\csc.rsp
+D:\Software-development\4 ciclo\desarrollo de apps I\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\roslyn\csi.exe
+D:\Software-development\4 ciclo\desarrollo de apps I\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\roslyn\csi.exe.config
+D:\Software-development\4 ciclo\desarrollo de apps I\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\roslyn\csi.rsp
+D:\Software-development\4 ciclo\desarrollo de apps I\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Software-development\4 ciclo\desarrollo de apps I\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Software-development\4 ciclo\desarrollo de apps I\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Software-development\4 ciclo\desarrollo de apps I\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Software-development\4 ciclo\desarrollo de apps I\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Software-development\4 ciclo\desarrollo de apps I\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Software-development\4 ciclo\desarrollo de apps I\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Software-development\4 ciclo\desarrollo de apps I\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Software-development\4 ciclo\desarrollo de apps I\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Software-development\4 ciclo\desarrollo de apps I\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+D:\Software-development\4 ciclo\desarrollo de apps I\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Software-development\4 ciclo\desarrollo de apps I\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Software-development\4 ciclo\desarrollo de apps I\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\roslyn\System.Buffers.dll
+D:\Software-development\4 ciclo\desarrollo de apps I\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\roslyn\System.Collections.Immutable.dll
+D:\Software-development\4 ciclo\desarrollo de apps I\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\roslyn\System.Memory.dll
+D:\Software-development\4 ciclo\desarrollo de apps I\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\roslyn\System.Numerics.Vectors.dll
+D:\Software-development\4 ciclo\desarrollo de apps I\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\roslyn\System.Reflection.Metadata.dll
+D:\Software-development\4 ciclo\desarrollo de apps I\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+D:\Software-development\4 ciclo\desarrollo de apps I\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Software-development\4 ciclo\desarrollo de apps I\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Software-development\4 ciclo\desarrollo de apps I\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\roslyn\vbc.exe
+D:\Software-development\4 ciclo\desarrollo de apps I\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\roslyn\vbc.exe.config
+D:\Software-development\4 ciclo\desarrollo de apps I\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\roslyn\vbc.rsp
+D:\Software-development\4 ciclo\desarrollo de apps I\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\roslyn\VBCSCompiler.exe
+D:\Software-development\4 ciclo\desarrollo de apps I\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\roslyn\VBCSCompiler.exe.config
+D:\Software-development\4 ciclo\desarrollo de apps I\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\AjaxControlToolkit.dll
+D:\Software-development\4 ciclo\desarrollo de apps I\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Software-development\4 ciclo\desarrollo de apps I\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\ProyInventario_BE.dll
+D:\Software-development\4 ciclo\desarrollo de apps I\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\ProyInventario_BL.dll
+D:\Software-development\4 ciclo\desarrollo de apps I\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\ProyInventario_ADO.dll
+D:\Software-development\4 ciclo\desarrollo de apps I\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\ProyInventario_BE.pdb
+D:\Software-development\4 ciclo\desarrollo de apps I\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\ProyInventario_BL.pdb
+D:\Software-development\4 ciclo\desarrollo de apps I\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Software-development\4 ciclo\desarrollo de apps I\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\ProyInventario_ADO.pdb
+D:\Software-development\4 ciclo\desarrollo de apps I\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\obj\Debug\SitioWEB_InventarioGUI.csproj.AssemblyReference.cache
+D:\Software-development\4 ciclo\desarrollo de apps I\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\obj\Debug\SitioWEB_InventarioGUI.csproj.CoreCompileInputs.cache
+D:\Software-development\4 ciclo\desarrollo de apps I\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\obj\Debug\SitioWEB_InventarioGUI.csproj.CopyComplete
+D:\Software-development\4 ciclo\desarrollo de apps I\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\obj\Debug\SitioWEB_InventarioGUI.dll
+D:\Software-development\4 ciclo\desarrollo de apps I\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\obj\Debug\SitioWEB_InventarioGUI.pdb
+D:\DES-APPS-I\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\SitioWEB_InventarioGUI.dll.config
+D:\DES-APPS-I\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\SitioWEB_InventarioGUI.dll
+D:\DES-APPS-I\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\SitioWEB_InventarioGUI.pdb
+D:\DES-APPS-I\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\roslyn\csc.exe
+D:\DES-APPS-I\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\roslyn\csc.exe.config
+D:\DES-APPS-I\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\roslyn\csc.rsp
+D:\DES-APPS-I\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\roslyn\csi.exe
+D:\DES-APPS-I\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\roslyn\csi.exe.config
+D:\DES-APPS-I\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\roslyn\csi.rsp
+D:\DES-APPS-I\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\DES-APPS-I\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\DES-APPS-I\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\DES-APPS-I\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\DES-APPS-I\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\DES-APPS-I\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\DES-APPS-I\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\DES-APPS-I\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\DES-APPS-I\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\DES-APPS-I\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+D:\DES-APPS-I\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\roslyn\Microsoft.Managed.Core.targets
+D:\DES-APPS-I\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\DES-APPS-I\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\roslyn\System.Buffers.dll
+D:\DES-APPS-I\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\roslyn\System.Collections.Immutable.dll
+D:\DES-APPS-I\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\roslyn\System.Memory.dll
+D:\DES-APPS-I\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\roslyn\System.Numerics.Vectors.dll
+D:\DES-APPS-I\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\roslyn\System.Reflection.Metadata.dll
+D:\DES-APPS-I\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+D:\DES-APPS-I\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\DES-APPS-I\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\DES-APPS-I\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\roslyn\vbc.exe
+D:\DES-APPS-I\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\roslyn\vbc.exe.config
+D:\DES-APPS-I\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\roslyn\vbc.rsp
+D:\DES-APPS-I\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\roslyn\VBCSCompiler.exe
+D:\DES-APPS-I\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\roslyn\VBCSCompiler.exe.config
+D:\DES-APPS-I\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\AjaxControlToolkit.dll
+D:\DES-APPS-I\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\DES-APPS-I\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\ProyInventario_BE.dll
+D:\DES-APPS-I\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\ProyInventario_BL.dll
+D:\DES-APPS-I\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\ProyInventario_ADO.dll
+D:\DES-APPS-I\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\ProyInventario_BE.pdb
+D:\DES-APPS-I\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\ProyInventario_BL.pdb
+D:\DES-APPS-I\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\DES-APPS-I\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\ProyInventario_ADO.pdb
+D:\DES-APPS-I\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\obj\Debug\SitioWEB_InventarioGUI.csproj.AssemblyReference.cache
+D:\DES-APPS-I\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\obj\Debug\SitioWEB_InventarioGUI.csproj.CoreCompileInputs.cache
+D:\DES-APPS-I\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\obj\Debug\SitioWEB_InventarioGUI.csproj.CopyComplete
+D:\DES-APPS-I\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\obj\Debug\SitioWEB_InventarioGUI.dll
+D:\DES-APPS-I\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\obj\Debug\SitioWEB_InventarioGUI.pdb
+D:\Software-development\4 ciclo\desarrollo de apps I\FINAL\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\SitioWEB_InventarioGUI.dll.config
+D:\Software-development\4 ciclo\desarrollo de apps I\FINAL\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\SitioWEB_InventarioGUI.dll
+D:\Software-development\4 ciclo\desarrollo de apps I\FINAL\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\SitioWEB_InventarioGUI.pdb
+D:\Software-development\4 ciclo\desarrollo de apps I\FINAL\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\roslyn\csc.exe
+D:\Software-development\4 ciclo\desarrollo de apps I\FINAL\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\roslyn\csc.exe.config
+D:\Software-development\4 ciclo\desarrollo de apps I\FINAL\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\roslyn\csc.rsp
+D:\Software-development\4 ciclo\desarrollo de apps I\FINAL\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\roslyn\csi.exe
+D:\Software-development\4 ciclo\desarrollo de apps I\FINAL\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\roslyn\csi.exe.config
+D:\Software-development\4 ciclo\desarrollo de apps I\FINAL\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\roslyn\csi.rsp
+D:\Software-development\4 ciclo\desarrollo de apps I\FINAL\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Software-development\4 ciclo\desarrollo de apps I\FINAL\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Software-development\4 ciclo\desarrollo de apps I\FINAL\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Software-development\4 ciclo\desarrollo de apps I\FINAL\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Software-development\4 ciclo\desarrollo de apps I\FINAL\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Software-development\4 ciclo\desarrollo de apps I\FINAL\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Software-development\4 ciclo\desarrollo de apps I\FINAL\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Software-development\4 ciclo\desarrollo de apps I\FINAL\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Software-development\4 ciclo\desarrollo de apps I\FINAL\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Software-development\4 ciclo\desarrollo de apps I\FINAL\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+D:\Software-development\4 ciclo\desarrollo de apps I\FINAL\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Software-development\4 ciclo\desarrollo de apps I\FINAL\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Software-development\4 ciclo\desarrollo de apps I\FINAL\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\roslyn\System.Buffers.dll
+D:\Software-development\4 ciclo\desarrollo de apps I\FINAL\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\roslyn\System.Collections.Immutable.dll
+D:\Software-development\4 ciclo\desarrollo de apps I\FINAL\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\roslyn\System.Memory.dll
+D:\Software-development\4 ciclo\desarrollo de apps I\FINAL\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\roslyn\System.Numerics.Vectors.dll
+D:\Software-development\4 ciclo\desarrollo de apps I\FINAL\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\roslyn\System.Reflection.Metadata.dll
+D:\Software-development\4 ciclo\desarrollo de apps I\FINAL\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+D:\Software-development\4 ciclo\desarrollo de apps I\FINAL\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Software-development\4 ciclo\desarrollo de apps I\FINAL\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Software-development\4 ciclo\desarrollo de apps I\FINAL\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\roslyn\vbc.exe
+D:\Software-development\4 ciclo\desarrollo de apps I\FINAL\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\roslyn\vbc.exe.config
+D:\Software-development\4 ciclo\desarrollo de apps I\FINAL\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\roslyn\vbc.rsp
+D:\Software-development\4 ciclo\desarrollo de apps I\FINAL\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\roslyn\VBCSCompiler.exe
+D:\Software-development\4 ciclo\desarrollo de apps I\FINAL\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\roslyn\VBCSCompiler.exe.config
+D:\Software-development\4 ciclo\desarrollo de apps I\FINAL\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\AjaxControlToolkit.dll
+D:\Software-development\4 ciclo\desarrollo de apps I\FINAL\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Software-development\4 ciclo\desarrollo de apps I\FINAL\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\ProyInventario_BE.dll
+D:\Software-development\4 ciclo\desarrollo de apps I\FINAL\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\ProyInventario_BL.dll
+D:\Software-development\4 ciclo\desarrollo de apps I\FINAL\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\ProyInventario_ADO.dll
+D:\Software-development\4 ciclo\desarrollo de apps I\FINAL\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\ProyInventario_BE.pdb
+D:\Software-development\4 ciclo\desarrollo de apps I\FINAL\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\ProyInventario_BL.pdb
+D:\Software-development\4 ciclo\desarrollo de apps I\FINAL\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Software-development\4 ciclo\desarrollo de apps I\FINAL\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\bin\ProyInventario_ADO.pdb
+D:\Software-development\4 ciclo\desarrollo de apps I\FINAL\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\obj\Debug\SitioWEB_InventarioGUI.csproj.AssemblyReference.cache
+D:\Software-development\4 ciclo\desarrollo de apps I\FINAL\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\obj\Debug\SitioWEB_InventarioGUI.csproj.CoreCompileInputs.cache
+D:\Software-development\4 ciclo\desarrollo de apps I\FINAL\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\obj\Debug\SitioWEB_InventarioGUI.csproj.CopyComplete
+D:\Software-development\4 ciclo\desarrollo de apps I\FINAL\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\obj\Debug\SitioWEB_InventarioGUI.dll
+D:\Software-development\4 ciclo\desarrollo de apps I\FINAL\InventarioPlazaVeaWEB\SitioWEB_InventarioGUI\obj\Debug\SitioWEB_InventarioGUI.pdb
